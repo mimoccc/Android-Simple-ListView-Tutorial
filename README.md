@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/android-simple-li
 
 **Screenshot**
 
-![Android Simple ListView Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Screenshot-ListView.png)
+![Android Simple ListView Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/ListView-Tutorial-ScreenShot.png)
